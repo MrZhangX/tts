@@ -16,6 +16,14 @@ import com.xi.liuliu.tts.util.LogUtil;
  * 将jni里面的so文件复制出来使用就好了。
  *
  * 参考文章：
+ * https://github.com/sogouspeech/tts-android-demo/tree/master 搜狗知音官方地址 ，在线的TTS，grpc
+ * https://github.com/sogouspeech/tts-android-sdk
+ *
+ * https://github.com/sogouspeech/asr-android-demo asr
+ * https://github.com/sogouspeech/asr-android-sdk
+ *
+ * https://github.com/sogouspeech/mt-android-demo 在线翻译
+ * https://github.com/sogouspeech/mt-android-sdk
  *
  * https://github.com/xiyy/voiceTranslator 这个是使用的搜狗知音，在线。还包括在线的asr、翻译
  * https://github.com/xiyy/tts 主要是这篇文章，离线
